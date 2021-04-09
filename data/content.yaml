@@ -1,0 +1,107 @@
+BasicInfo:
+  FirstName: Mohamad
+  LastName: Alghosh
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +971 50 1636 957
+    - Icon: fas fa-envelope
+      Info: MohamadAlghish1993@gmail.com
+    - Icon: fas fa-globe
+      Info: alghish.netlify.app
+    - Icon: fas fa-map-marker-alt
+      Info: UAE - Abu Dhabi
+
+Profile: I am a Software Developer , with 5+ years’ experience with many platform development in web development, data science analyze,Being 3 years based in UAE I use to work with an Government projects as ​a Senior Developer. Despite successful cooperation with UAE, and ​Worldwide Market, I am still looking for new opportunities to employ creativity.
+
+Experience:
+  - Employer: NVSSOFT (New Vision Systems) - Dubai, Abu Dhabi
+    Place: United Arab Emirate
+    Positions:
+      - Title: Resdient Engineering
+        Date: NOV 2019 - Present
+        Details:
+          - Migration data from old systems
+          - Make integration layer to middle-ware system mapping data with differnet systems
+        Badges: ["Oracle", ".Net Core", "Javascript", "CSS", "Agile"]
+      - Title: Software Developer
+        Date: SEP 2016 - MAR 2018
+        Details:
+          - Tarasol system it is like local system for send and receive correspondence using WebDav metadata insert with attachment.
+          - EZIFlow system L it engines workflow system it uses to design any flow of system or organisation.
+          - Work in insert using bulk-insert in SQL-server and ORACLE.
+          - Work in image viewer this viewer can view any type file.
+          - Work in enhancement the loop in the project using many tricks is offered by.Net language.
+        Badges: ["C# .Net MVC", "Database", "Javascript", "OOP"]
+  - Employer: MICROPOLIS - Dubai
+    Place: United Arab Emirate
+    Positions:
+      - Title: Software Engineer (Senior Developer)
+        Date: SEP 2018 - NOV 2019
+        Details:
+          - Develope Al Mamzar App for Dubai Muncipilate to manage booking chalet
+          - Make the connection with an online paid system Erad for booking using internal system in Dubai Muncipilate
+          - Back-end working .Net using MVC model and Java Spring Boot.
+          - Front-end dashboard to manage local-admin work
+        Badges: ["C# .Net MVC", "Angular", "Java Spring Boot"]
+  - Employer: L-One System Gmbh
+    Place: Germany
+    Positions:
+      - Title: Outsource Full Stack Developer
+        Date: APR 2018 - AUG 2018
+        Details:
+          - Work in an online system called ShaufelOnline it is to manage the garden work in Germany this system support makes the bill and organize the tasks of work.
+          - Generate PDF for bills using library PHP
+          - Make the connection with an online paid system can make check and paid using the bank account front-end  Develop the using Angualrjs with dashboard for admin
+          - Back-end working PHP freamwork CakePhp
+        Badges: ["Php", "HTML", "CSS", "Bootstrap"]
+
+Education:
+  - Course: BSc in Information Technology Engineering
+    Place: University of Damascus, Syria
+    Date: Sep 2011 - APR 2016
+    Details: I had completed five years with grade good, I have also worked as a teacher assistant at Damascus University where I taught Algorithm
+
+New:
+  - test test
+
+Skills:
+  - Family: Programming
+    Items:
+      - Python
+      - HTML
+      - Javascript
+      - Java
+      - SASS, CSS
+      - SQL
+      - C#
+      - Bash
+      - NodeJs
+  - Family: Frameworks
+    Items:
+      - CakePhp, Yii2
+      - Flask
+      - Nextjs-React
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+  - Family: Misc
+    Items:
+      - Adobe Tools
+
+Languages:
+  - Name: Arabic
+    Level: Native
+  - Name: English
+    Level: Fluent
+  - Name: Frensh
+    Level: C2
+
+Diplomas1:
+  -
+
+Interests:
+  - Games
+  - Cooking
+  - Music & Films
